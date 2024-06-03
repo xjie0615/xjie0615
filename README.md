@@ -22,7 +22,7 @@
   <tr>
     <td><a href="https://proj.moe.edu.tw/itsa/Default.aspx">教育部智慧創新躍升</a></td>
     <td></td>
-    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:3fE2CSJIrl8C"巨量资料</a></td>
+    <td><a href="https://scholar.google.com.tw/citations?view_op=view_citation&hl=zh-TW&user=Dk-7FvoAAAAJ&sortby=pubdate&citation_for_view=Dk-7FvoAAAAJ:3fE2CSJIrl8C">巨量资料</a></td>
     <td>子宁</td>
   </tr>  
 </table><br>
